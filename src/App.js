@@ -92,7 +92,7 @@ function App() {
          <textarea
           required={true}
           value={inputText}
-          placeholder='DESCREVA SUA IMAGEM E ESCOLHA UM MODELO '
+          placeholder='DESCREVA SUA IMAGEM'
           className="block w-12/12 h-[5em] p-2 text-xs text-gray-900 border-2 
           outline-none border-green-800 rounded-lg bg-white focus:ring-blue-500 
           focus:border-blue-500 dark:bg-gray-50 dark:border-gray-200 
