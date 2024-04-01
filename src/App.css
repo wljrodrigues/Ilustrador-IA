@@ -1,0 +1,22 @@
+
+.scroll-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #001f40a5; /* Change the background color as needed */
+  color: #ffffff; /* Change the text color as needed */
+  border: none;
+  padding: 10px;
+  border-radius: 100%;
+  cursor: pointer;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  outline: none;
+  transition: background-color 0.3s ease;
+}
+
+.scroll-to-top:hover {
+  background-color: #0a73dc; /* Change the hover background color as needed */
+}
