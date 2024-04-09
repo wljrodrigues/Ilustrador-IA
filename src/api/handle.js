@@ -16,7 +16,7 @@ export async function query(data) {
 		const response = await fetch(endpoint, {
 		  headers: {
 			Accept: "image/png",
-			Authorization: "Bearer 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",
+			Authorization: "YOUR_API_HF",
 			"Content-Type": "application/json",
 		  },
 		  method: "POST",
