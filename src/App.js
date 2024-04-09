@@ -109,7 +109,7 @@ function App() {
                   className='text-white w-32 bg-blue-700 hover:bg-blue-800 
                   focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm 
                   px-4 py-2 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800'
-                >CRIAR  
+                >GERAR IMG
                 </button>
 
              {/*
@@ -164,18 +164,15 @@ function App() {
               </button> */}
             </div>
 
-            {/*
-<div>
-<p>👷🏼‍♂️🔧 Qualquer problema técnico que o Ilustrador tiver enfrentado, por favor, envie-me um e-mail para wljrodrigues@gmail.com</p>
-<br/><br/>
-</div>
-            */}
             
-            <div  className="text-gray-100" >
-              
-        <p>Esta é uma aplicação oferecida pela Itacaiúnas. <b></b>
-        </p>
-      </div>
+<div  className="text-gray-100">
+<p>👷🏼‍♂️🔧 Qualquer problema técnico que o Ilustrador tiver enfrentado, por favor, <br/>
+envie-me um e-mail para wljrodrigues@gmail.com</p>
+
+</div>
+           
+            
+           
         
             
           </div>
