@@ -19,7 +19,7 @@ export async function query(data) {
 		const response = await fetch(endpoint, {
 		  headers: {
 			Accept: "image/png",
-			Authorization: "Bearer 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",
+			Authorization: "Bearer YOU API KEI HERE",
 			"Content-Type": "application/json",
 		  },
 		  method: "POST",
