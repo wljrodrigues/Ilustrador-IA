@@ -1,10 +1,17 @@
 # Ilustrador IA - crie imagens com Inteligência Artificial
 <p align="center">
 <img 
+    src="https://editoraitacaiunas.com.br/wp-content/uploads/2024/10/tela-inicial.png"
+    width="400"  
+/>
+</p>
+<p align="center">
+<img 
     src="cover.png"
     width="400"  
 />
 </p>
+
 
 
 
