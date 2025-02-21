@@ -2,13 +2,13 @@
 <p align="center">
 <img 
     src="https://editoraitacaiunas.com.br/wp-content/uploads/2024/10/tela-inicial.png"
-    width="400"  
+    width="800"  
 />
 </p>
 <p align="center">
 <img 
     src="cover.png"
-    width="800"  
+    width="400"  
 />
 </p>
 
